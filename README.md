@@ -80,7 +80,7 @@ sales-prediction/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/sales-ml-dashboard.git
+git clone https://github.com/HR786-raza/CodeAlpha_Sales-Prediction.git
 cd sales-prediction
 ```
 
