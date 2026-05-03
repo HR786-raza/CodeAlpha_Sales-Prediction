@@ -1,4 +1,4 @@
-# 📊 Sales Prediction ML Dashboard (Streamlit)
+# CodeAlpha_Sales-Prediction
 
 An interactive machine learning web app built with **Streamlit** that allows users to:
 - Upload advertising sales datasets
