@@ -12,7 +12,7 @@ An interactive machine learning web app built with **Streamlit** that allows use
 ## 🚀 Live Demo
 Once deployed on Streamlit Cloud, your app will be available here:
 
-👉 https://your-app-name.streamlit.app
+👉 https://codealphasales-prediction.streamlit.app/
 
 ---
 
